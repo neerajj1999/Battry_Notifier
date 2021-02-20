@@ -1,0 +1,4 @@
+#install the package use for this python script.
+
+psutil = 5.8.0
+py-notifier = 0.1.1
